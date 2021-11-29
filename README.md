@@ -4,25 +4,24 @@ So, who I am
 - 🎓 Pursuing B.Tech in Electrical Engineering
 - 🌱 I’m currently learning `Data Structures` and `Developement`
 - 👯 I’m looking to collaborate on Competitive Coding
-- 💬 Ask me about anything, I am happy to help
+- 💬 Always ready to help!
 - 😄 Pronouns: he/him
 
 [![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/arpitgupta1014)](https://codeforces.com/profile/arpitgupta1014)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="420" />
 
 ### Stats
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966](https://user-images.githubusercontent.com/79745992/143868535-651e655b-ef1d-40d2-ba4f-a4d8348d40fc.gif)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitgupta1014&theme=tokyonight&count_private=true)
 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitgupta1014&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
+<a href="https://github.com/arpitgupta1014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitgupta1014&layout=compact)
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
-
+<a href="https://github.com/arpitgupta1014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
