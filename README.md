@@ -2,13 +2,13 @@
 
 So, who I am
 - 🎓 Pursuing B.Tech in Electrical Engineering
-- 🌱 I’m currently learning `Data Structures` and `Developement`
+- 🌱 I’m currently learning `Data Structures` and `Development
 - 👯 I’m looking to collaborate on Competitive Coding
 - 💬 Always ready to help!
 - 😄 Pronouns: he/him
 
-[![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/arpitgupta1014)](https://codeforces.com/profile/arpitgupta1014)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="420" />
+[![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
 
 ### Stats
 
