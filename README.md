@@ -2,7 +2,7 @@
 
 So, who I am
 - 🎓 Pursuing B.Tech in Electrical Engineering
-- 🌱 I’m currently learning `Data Structures` and `Development
+- 🌱 I’m currently learning `Data Structures` and `Development`
 - 👯 I’m looking to collaborate on Competitive Coding
 - 💬 Always ready to help!
 - 😄 Pronouns: he/him
