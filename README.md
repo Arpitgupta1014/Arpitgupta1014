@@ -11,7 +11,6 @@ So, who I am
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
 
 ### Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitgupta1014&theme=tokyonight&count_private=true)
 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitgupta1014&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
@@ -21,6 +20,7 @@ So, who I am
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitgupta1014&layout=compact)
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="arpitgupta1014" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
