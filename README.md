@@ -11,6 +11,7 @@ So, who I am
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="420" />
 
 ### Stats
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966](https://user-images.githubusercontent.com/79745992/143868535-651e655b-ef1d-40d2-ba4f-a4d8348d40fc.gif)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitgupta1014&theme=tokyonight&count_private=true)
 
@@ -48,6 +49,9 @@ So, who I am
  <!--
 <p align="center"><img src="https://metrics.lecoq.io/arpitgupta1014" alt="Github Metrics"></p>
 -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
+
+[<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/arpit-/)
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
 </center>
