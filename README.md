@@ -21,7 +21,6 @@ So, who I am
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitgupta1014&layout=compact)
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
-<a href="https://github.com/arpitgupta1014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
