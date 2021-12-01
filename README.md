@@ -5,7 +5,7 @@ So, who I am
 - 🌱 I’m currently learning `Data Structures` and `Development`
 - 👯 I’m looking to collaborate on Competitive Coding
 - 💬 Always ready to help!
-- 📫 How to reach me: arpitgupta1014@gmail.com] or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
+- 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
 - 😄 Pronouns: he/him
 
 [![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
