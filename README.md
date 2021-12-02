@@ -8,7 +8,7 @@ So, who I am
 - 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
 - 😄 Pronouns: he/him
 
-[![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
+[![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
 
 ### Stats
@@ -66,4 +66,5 @@ So, who I am
 <img align="left" alt="Arpit Gupta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 -->
+ <a href="https://github.com/Arpitgupta1014" >  <img src="https://github.com/Arpitgupta1014/Arpitgupta1014/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
 </p>
