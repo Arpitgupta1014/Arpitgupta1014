@@ -7,6 +7,7 @@ So, who I am
 - 💬 Always ready to help!
 - 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
 [![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
@@ -31,6 +32,8 @@ So, who I am
 <a href="https://instagram.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpitgupta1014" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg" alt="arpitgupta1014" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerearth.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools</h3>
