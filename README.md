@@ -24,7 +24,8 @@ So, who I am
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
 
 ### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="arpitgupta1014" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
