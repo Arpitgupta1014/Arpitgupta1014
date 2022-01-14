@@ -6,7 +6,7 @@ So, who I am
 - 👯 I’m looking to collaborate on Competitive Coding
 - 💬 Always ready to help!
 - 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
-- 😄 Pronouns: he/him![68747470733a2f2f6a757374737469636b6572732e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6465762d62616467652e706e67](https://user-images.githubusercontent.com/79745992/149482297-c2bc8b83-0d0e-44af-8dbe-b44519052ea2.png)
+- 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
