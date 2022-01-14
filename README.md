@@ -6,7 +6,8 @@ So, who I am
 - 👯 I’m looking to collaborate on Competitive Coding
 - 💬 Always ready to help!
 - 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him![68747470733a2f2f6a757374737469636b6572732e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6465762d62616467652e706e67](https://user-images.githubusercontent.com/79745992/149482297-c2bc8b83-0d0e-44af-8dbe-b44519052ea2.png)
+
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
 [![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
@@ -24,7 +25,7 @@ So, who I am
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
 
 ### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" /><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="arpitgupta1014" /></a> </p>
 <h3 align="left">Connect with me:</h3>
