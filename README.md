@@ -1,4 +1,8 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center"><img src="https://media.giphy.com/media/yl6yQcefy5GicjC0o1/giphy.gif" width="800px"></p>
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
+<br>
+<h1 align="center">Arpit Gupta this side  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px">
+</h1>
 
 So, who I am
 - 🎓 Pursuing B.Tech in Electrical Engineering
@@ -26,6 +30,7 @@ So, who I am
 
 ### Earned Badges
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" /><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="arpitgupta1014" /></a> </p>
 <h3 align="left">Connect with me:</h3>
