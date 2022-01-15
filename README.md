@@ -61,7 +61,6 @@ So, who I am
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <br> ![](https://komarev.com/ghpvc/?username=arpitgupta1014&color=20B2AA&label=Views)
-
 <!--
 <center>
 <h2 align="center">Git Hub Stats</h2>
