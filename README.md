@@ -18,7 +18,6 @@ So, who I am
 
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitgupta1014&theme=tokyonight&count_private=true)
-
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitgupta1014&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 <a href="https://github.com/arpitgupta1014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
