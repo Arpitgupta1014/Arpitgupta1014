@@ -23,7 +23,6 @@ So, who I am
 <!--
 
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitgupta1014&layout=compact)
-
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
 
