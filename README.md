@@ -25,7 +25,6 @@ So, who I am
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitgupta1014&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 <a href="https://github.com/arpitgupta1014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
-
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitgupta1014&layout=compact)
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpitgupta1014&theme=github&count_private=true)
@@ -44,7 +43,7 @@ So, who I am
 <a href="https://www.hackerrank.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerearth.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 </p>
-
+	
 <!-- <p align="left">
 	<a href="mailto:arpitgupta1014@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 	<a href="https://github.com/arpitgupta1014"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
