@@ -85,7 +85,6 @@ So, who I am
 <a href="https://www.linkedin.com/in/arpit-/">
 <img align="left" alt="Arpit Gupta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/arpitgupta1014/">
 <img align="left" alt="Arpit Gupta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
