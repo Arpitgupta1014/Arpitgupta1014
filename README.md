@@ -38,7 +38,7 @@ So, who I am
 <p align="left">
 <a href="https://linkedin.com/in/arpit-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit-" height="30" width="40" /></a>
 <a href="https://instagram.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpitgupta1014" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpitgupta1014" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/govindasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerearth.svg" alt="arpitgupta1014" height="30" width="40" /></a>
@@ -51,7 +51,7 @@ So, who I am
 	<a href="https://www.linkedin.com/in/arpit-/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://instagram.com/arpitgupta1014"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
  	<a href="https://codeforces.com/arpitgupta1014"><img alt="codeforces" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/codeforces.png"/></a>
- 	<a href="https://codechef.com/arpitgupta1014"><img alt="codechef" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/codechef.png"/></a>
+ 	<a href="https://codechef.com/govindasharma"><img alt="codechef" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/codechef.png"/></a>
  	<a href="https://hackerearth.com/arpitgupta1014"><img alt="hackerearth" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hackerearth.png"/></a>
  	<a href="https://hackerrank.com/arpitgupta1014"><img alt="hackerrank" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hackerrank.png"/></a>
 </p>
