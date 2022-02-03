@@ -17,7 +17,7 @@ So, who I am
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
-[![Codechef](https://cp-logo.vercel.app/codechef/arpitgupta1014)](https://www.codechef.com/users/arpitgupta1014)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
+[![Codechef](https://cp-logo.vercel.app/codechef/govindasharma)](https://www.codechef.com/users/govindasharma)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
 
 ### Stats
