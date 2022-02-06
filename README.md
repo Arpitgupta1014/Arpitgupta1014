@@ -81,6 +81,7 @@ So, who I am
 
 </center>
 <!--
+
 <a href="https://auth.geeksforgeeks.org/user/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dangerous_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dangerous_007" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="arpitgupta1014" height="30" width="40" /></a>
