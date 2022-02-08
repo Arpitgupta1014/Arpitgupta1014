@@ -43,6 +43,13 @@ So, who I am
 <a href="https://codeforces.com/profile/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerearth.svg" alt="arpitgupta1014" height="30" width="40" /></a>
+	
+[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/arpit-/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/arpitgupta1014/) &nbsp;&nbsp;&nbsp;
+[![Codeforces](./icons/codeforces.svg)](https://codeforces.com/profile/ArpitGupta1014) &nbsp;&nbsp;&nbsp;
+[![Codechef](./icons/codechef.svg)](https://www.codechef.com/users/govindasharma) &nbsp;&nbsp;&nbsp;
+[![Email](./icons/email.svg)](mailto:arpitgupta1014@gmail.com)
+	
 </p>
 	
 <!-- 
