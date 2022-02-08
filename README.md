@@ -41,9 +41,9 @@ So, who I am
 [![trophy](https://github-profile-trophy.vercel.app/?username=arpitgupta1014&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arpit-" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ONthpmrLXT7UaqKluyK1Mo-5YEfLPi6o5ek4pn6vFAHPW6W_Mlk86s8vpzbsoglDn8M&usqp=CAU" alt="arpit-" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/arpit-" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jlZ4SVlucRrhv2xupaf_vCkV1FQ8gClPmt_IHOpz_-CbmxtMas7gWf5u0e_03MxRu4o&usqp=CAU" alt="arpit-" height="35" width="35" /></a>
 <a href="https://instagram.com/arpitgupta1014" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="arpitgupta1014" height="35" width="30" /></a>
-<a href="https://www.codechef.com/users/govindasharma" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="arpitgupta1014" height="50" width="50" /></a>
+<a href="https://www.codechef.com/users/govindasharma" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="arpitgupta1014" height="40" width="50" /></a>
 <a href="https://codeforces.com/profile/arpitgupta1014" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo54H6ouEbEfRIzdxCVVGTDsFn3sLytjsrKPTw9o8roMU1SNqBDDv5UKwqHaKr2eDoC0Q&usqp=CAU" alt="arpitgupta1014" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpitgupta1014" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="arpitgupta1014" height="45" width="40" /></a>
 <a href="https://www.hackerearth.com/@arpitgupta1014" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/344-3444494_hackerearth-logo-png-clipart-hackathon-hackerearth-icon-logo-hackerearth.png" alt="arpitgupta1014" height="40" width="40" /></a>
