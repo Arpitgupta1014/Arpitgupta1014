@@ -62,7 +62,6 @@ So, who I am
 [![Email](./icons/email.svg)](mailto:arpitgupta1014@gmail.com)
 -->	
 </p>
-	
 <!-- 
 <p align="left">
 	<a href="mailto:arpitgupta1014@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
