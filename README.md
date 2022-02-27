@@ -60,7 +60,7 @@ So, who I am
 [![Codeforces](./icons/codeforces.svg)](https://codeforces.com/profile/ArpitGupta1014) &nbsp;&nbsp;&nbsp;
 [![Codechef](./icons/codechef.svg)](https://www.codechef.com/users/govindasharma) &nbsp;&nbsp;&nbsp;
 [![Email](./icons/email.svg)](mailto:arpitgupta1014@gmail.com)
--->	
+-->
 </p>
 <!-- 
 <p align="left">
