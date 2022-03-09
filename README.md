@@ -34,7 +34,7 @@ So, who I am
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'></a>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="arpitgupta1014" /></a> </p>
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=arpitgupta1014&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
+<p align = "center"> <img src ="https://github-profile-trophy.vercel.app/?username=arpitgupta1014&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
 </p>
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=arpitgupta1014&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
