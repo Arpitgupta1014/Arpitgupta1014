@@ -11,7 +11,7 @@
 So, who I am
 - 🎓 Pursuing B.Tech in Electrical Engineering
 - 🌱 I’m currently learning `Data Structures`, `Development` and `Video Editing`
-- 👯 I’m looking to collaborate on Competitive Coding
+- 👯 I’m looking to collaborate on Competitive Coding [My Resume](https://arpitgupta.vercel.app/Arpit-Resume.pdf)
 - 💬 Always ready to help!
 - 📫 How to reach me: arpitgupta1014@gmail.com or [![LinkedIn: ArpitGupta](https://img.shields.io/badge/-ArpitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-/)](https://www.linkedin.com/in/arpit-/)
 - 😄 Pronouns: he/him
